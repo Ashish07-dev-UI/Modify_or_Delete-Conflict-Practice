@@ -1,1 +1,2 @@
-This is Another Git Project.
+1. Doing the same thing again and again 😑:
+This is a Git Project.
