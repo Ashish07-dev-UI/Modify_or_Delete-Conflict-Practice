@@ -1,0 +1,2 @@
+1. Doing the same thing again and again 😑:
+This is a Git Project.
